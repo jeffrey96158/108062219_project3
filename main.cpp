@@ -6,6 +6,7 @@
 #include <vector>
 #include <cassert>
 //I want to finish my github homework1
+//I want to finish my github homework2~
 struct Point {
 	int x, y;
 	Point() : Point(0, 0) {}
